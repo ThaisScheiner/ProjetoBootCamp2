@@ -1,4 +1,4 @@
-<h2>Projeto BootCamp GFT Start - DIO - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+<h2>Projeto BootCamp GFT Start / BootCamp Santander - DIO - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Aulas do Projeto na plataforma DIO - Digital Innovation One
 
